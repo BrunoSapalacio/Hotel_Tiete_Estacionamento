@@ -143,6 +143,13 @@ function reservar() {
         permissao[veiculos[posicao].numero] = true;
         placas.push(veiculos[posicao].placa);
         vagaN.innerHTML = VagaHTML;
+        Swal.fire({
+            position: 'center',
+            icon: 'success',
+            title: `A vaga ${vagaD} foi reservado com sucesso!`,
+            showConfirmButton: false,
+            timer: 2500
+          })
         vagaD, posicao = 0;
     }
 }
