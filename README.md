@@ -5,9 +5,9 @@ Sistema básico que realiza reservas de vagas para o Hotel ficticio "Tietê".
 O sistema foi criado como base de estudo para fixar os conhecimentos sobre **Objetos, Arrays, elementos DOM, uso de Plugins** e **Bootstrap 5**.
 
 # Tecnologias utilizadas
-- [Bootstrap 5](https://getbootstrap.com/) - Estiliza a página
-- [Moment.js](https://momentjs.com/) - Manipula datas e horários
-- [Sweetalert2](https://sweetalert2.github.io/) - Cria alertas personalizáveis
+- [Bootstrap 5](https://getbootstrap.com/) - Estiliza a página.
+- [Moment.js](https://momentjs.com/) - Manipula datas e horários.
+- [Sweetalert2](https://sweetalert2.github.io/) - Cria alertas personalizáveis.
  
 # Como rodar
 
