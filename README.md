@@ -32,7 +32,8 @@ git clone https://github.com/BrunoSapalacio/Hotel_Tiete_Estacionamento.git
 Versão Desktop
 
 ![pagina1_desktop](https://user-images.githubusercontent.com/64747697/156085669-e7a8634c-158d-4406-bec1-5b13e3004005.jpg)
-![pagina2_desktop](https://user-images.githubusercontent.com/64747697/156085671-fa14783b-c4d8-410f-91ab-c29ef7cabcc0.jpg)
+![pagina2 desktop](https://user-images.githubusercontent.com/64747697/158477449-39544281-6ba7-4258-a426-759ae4507408.png)
+
 
 Versão Mobile
 
